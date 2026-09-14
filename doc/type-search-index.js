@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"contrato","l":"Accionable"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"servicio","l":"GestorTareas"},{"p":"app","l":"Main"},{"p":"modelo","l":"Tarea"},{"p":"modelo","l":"TareaNormal"},{"p":"modelo","l":"TareaUrgente"}];updateSearchResults();
